@@ -2,7 +2,7 @@
   "name": "Prompt Manager Pro",
   "short_name": "PromptMgr",
   "description": "Professional prompt template manager for quick access and organization",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f1e",
   "theme_color": "#6366f1",
