@@ -1,0 +1,50 @@
+{
+  "name": "Prompt Manager Pro",
+  "short_name": "PromptMgr",
+  "description": "Professional prompt template manager for quick access and organization",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1e",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiByeD0iNDgiIGZpbGw9InVybCgjZ3JhZGllbnQpIi8+CjxkZWZzPgo8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWRpZW50IiB4MT0iMCIgeTE9IjAiIHgyPSIxOTIiIHkyPSIxOTIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzYzNjZmMSIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM4YjVjZjYiLz4KPC9saW5lYXJHcmFkaWVudD4KPC9kZWZzPgo8cGF0aCBkPSJNMTEyIDQ4SDY0YTggOCAwIDAgMC04IDh2ODBhOCA4IDAgMCAwIDggOGg2NGE4IDggMCAwIDAgOC04Vjg4eiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI4IiBmaWxsPSJub25lIi8+Cjxwb2x5bGluZSBwb2ludHM9IjExMiA0OCAxMTIgODggMTM2IDg4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjgiIGZpbGw9Im5vbmUiLz4KPGxpbmUgeDE9Ijk2IiB5MT0iMTIwIiB4Mj0iOTYiIHkyPSI5NiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI4Ii8+CjxsaW5lIHgxPSI4NCIgeTE9IjEwOCIgeDI9IjEwOCIgeTI9IjEwOCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI4Ii8+Cjwvc3ZnPgo=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTI4IiBmaWxsPSJ1cmwoI2dyYWRpZW50KSIvPgo8ZGVmcz4KPGxpbmVhckdyYWRpZW50IGlkPSJncmFkaWVudCIgeDE9IjAiIHkxPSIwIiB4Mj0iNTEyIiB5Mj0iNTEyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiM2MzY2ZjEiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOGI1Y2Y2Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPHBhdGggZD0iTTMyMCAxMjhIMTc2YTI0IDI0IDAgMCAwLTI0IDI0djIwOGEyNCwyNCAwIDAgMCAyNCAyNGgxNjhhMjQgMjQgMCAwIDAgMjQtMjRWMjI0eiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyNCIgZmlsbD0ibm9uZSIvPgo8cG9seWxpbmUgcG9pbnRzPSIzMjAgMTI4IDMyMCAyMjQgMzY4IDIyNCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyNCIgZmlsbD0ibm9uZSIvPgo8bGluZSB4MT0iMjU2IiB5MT0iMzA0IiB4Mj0iMjU2IiB5Mj0iMjU2IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjI0Ii8+CjxsaW5lIHgxPSIyMzIiIHkxPSIyODAiIHgyPSIyODAiIHkyPSIyODAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMjQiLz4KPC9zdmc+Cg==",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTQwIiBoZWlnaHQ9Ijk2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNTQwIiBoZWlnaHQ9Ijk2MCIgZmlsbD0iIzBmMGYxZSIvPjwvc3ZnPg==",
+      "sizes": "540x960",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "New Prompt",
+      "short_name": "New",
+      "description": "Create a new prompt template",
+      "url": "/index.html?action=new",
+      "icons": [
+        {
+          "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiByeD0iMjQiIGZpbGw9IiM2MzY2ZjEiLz48L3N2Zz4=",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false,
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr"
+}

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Install Prompt Manager Pro</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem;
+            color: white;
+        }
+        .container {
+            max-width: 600px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 24px;
+            padding: 2rem;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+        .subtitle {
+            text-align: center;
+            opacity: 0.9;
+            margin-bottom: 2rem;
+            font-size: 1.1rem;
+        }
+        .feature-list {
+            list-style: none;
+            margin: 2rem 0;
+        }
+        .feature-list li {
+            padding: 0.75rem;
+            margin: 0.5rem 0;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        .feature-list li::before {
+            content: "✓";
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            text-align: center;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        .btn {
+            display: block;
+            width: 100%;
+            padding: 1.25rem;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            text-align: center;
+            border-radius: 16px;
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin: 1rem 0;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        .btn:active {
+            transform: scale(0.98);
+        }
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+        }
+        .steps {
+            margin: 2rem 0;
+            padding: 1.5rem;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 16px;
+        }
+        .steps h3 {
+            margin-bottom: 1rem;
+            font-size: 1.25rem;
+        }
+        .steps ol {
+            padding-left: 1.5rem;
+        }
+        .steps li {
+            margin: 0.75rem 0;
+            line-height: 1.6;
+        }
+        .files {
+            margin: 2rem 0;
+            padding: 1rem;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 16px;
+            font-size: 0.9rem;
+        }
+        .files p {
+            margin: 0.5rem 0;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Prompt Manager Pro</h1>
+        <p class="subtitle">Professional prompt template manager for your Samsung S24 Ultra</p>
+        
+        <ul class="feature-list">
+            <li>Works 100% offline</li>
+            <li>Lightning-fast performance</li>
+            <li>Zero battery drain</li>
+            <li>Native app experience</li>
+            <li>Completely private & secure</li>
+        </ul>
+
+        <a href="index.html" class="btn">Launch App Now</a>
+        <a href="README.md" class="btn btn-secondary">View Full Instructions</a>
+
+        <div class="steps">
+            <h3>📱 Quick Install Guide</h3>
+            <ol>
+                <li><strong>Upload to GitHub Pages</strong> (easiest method):
+                    <ul style="margin-top: 0.5rem;">
+                        <li>Create new GitHub repo</li>
+                        <li>Upload all 5 files</li>
+                        <li>Enable GitHub Pages in Settings</li>
+                        <li>Access URL on your phone</li>
+                    </ul>
+                </li>
+                <li><strong>Install on Phone:</strong>
+                    <ul style="margin-top: 0.5rem;">
+                        <li>Open URL in Chrome/Samsung Internet</li>
+                        <li>Tap menu (⋮) → "Add to Home screen"</li>
+                        <li>Done! App is now on your home screen</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+
+        <div class="files">
+            <strong>📦 Required Files (5 total):</strong>
+            <p>✓ index.html - Main app</p>
+            <p>✓ styles.css - Styling</p>
+            <p>✓ app.js - Functionality</p>
+            <p>✓ service-worker.js - Offline support</p>
+            <p>✓ manifest.json - PWA config</p>
+        </div>
+
+        <p style="text-align: center; opacity: 0.8; margin-top: 2rem; font-size: 0.9rem;">
+            All files are ready to download. See README.md for detailed instructions.
+        </p>
+    </div>
+</body>
+</html>
